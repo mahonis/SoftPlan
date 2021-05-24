@@ -1,0 +1,12 @@
+E:\Desafio\SoftPlan\SoftPlan.Application\bin\Debug\netcoreapp3.1\SoftPlan.Application.deps.json
+E:\Desafio\SoftPlan\SoftPlan.Application\bin\Debug\netcoreapp3.1\SoftPlan.Application.dll
+E:\Desafio\SoftPlan\SoftPlan.Application\bin\Debug\netcoreapp3.1\SoftPlan.Application.pdb
+E:\Desafio\SoftPlan\SoftPlan.Application\obj\Debug\netcoreapp3.1\SoftPlan.Application.csprojAssemblyReference.cache
+E:\Desafio\SoftPlan\SoftPlan.Application\obj\Debug\netcoreapp3.1\SoftPlan.Application.AssemblyInfoInputs.cache
+E:\Desafio\SoftPlan\SoftPlan.Application\obj\Debug\netcoreapp3.1\SoftPlan.Application.AssemblyInfo.cs
+E:\Desafio\SoftPlan\SoftPlan.Application\obj\Debug\netcoreapp3.1\SoftPlan.Application.csproj.CoreCompileInputs.cache
+E:\Desafio\SoftPlan\SoftPlan.Application\obj\Debug\netcoreapp3.1\SoftPlan.Application.dll
+E:\Desafio\SoftPlan\SoftPlan.Application\obj\Debug\netcoreapp3.1\SoftPlan.Application.pdb
+E:\Desafio\SoftPlan\SoftPlan.Application\bin\Debug\netcoreapp3.1\SoftPlan.Core.dll
+E:\Desafio\SoftPlan\SoftPlan.Application\bin\Debug\netcoreapp3.1\SoftPlan.Core.pdb
+E:\Desafio\SoftPlan\SoftPlan.Application\obj\Debug\netcoreapp3.1\SoftPlan.Application.csproj.CopyComplete

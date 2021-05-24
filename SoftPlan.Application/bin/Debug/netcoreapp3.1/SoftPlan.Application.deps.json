@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SoftPlan.Application/1.0.0": {
+        "dependencies": {
+          "SoftPlan.Core": "1.0.0"
+        },
+        "runtime": {
+          "SoftPlan.Application.dll": {}
+        }
+      },
+      "SoftPlan.Core/1.0.0": {
+        "runtime": {
+          "SoftPlan.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftPlan.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SoftPlan.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

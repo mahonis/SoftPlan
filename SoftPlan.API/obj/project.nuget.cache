@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ifxE6T5yOlVoAHBOpBYzYYx2aSI4i3d9N03Gfk0ivPLmzF928+XV28YJ8/gI++/CvsTxOelHmYXC1/YFniID7g==",
+  "success": true,
+  "projectFilePath": "E:\\NEXAIT\\Repository\\SoftPlan\\SoftPlan.API\\SoftPlan.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mahon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mahon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.0\\swashbuckle.aspnetcore.6.1.0.nupkg.sha512",
+    "C:\\Users\\mahon\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.0\\swashbuckle.aspnetcore.swagger.6.1.0.nupkg.sha512",
+    "C:\\Users\\mahon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.0\\swashbuckle.aspnetcore.swaggergen.6.1.0.nupkg.sha512",
+    "C:\\Users\\mahon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.0\\swashbuckle.aspnetcore.swaggerui.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
